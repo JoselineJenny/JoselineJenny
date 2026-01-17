@@ -1,8 +1,7 @@
 <h1 align="center">🖤✨ Hola, soy Joseline ✨🖤</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=500&color=F4A9C7&center=true&vCenter=true&width=700&lines=🟡+PAC-MAN+MODE+ON;J+o+s+e+l+i+n+e;👻+Backend+Developer+in+Progress+👻"/>
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=500&color=F4A9C7&center=true&vCenter=true&width=700&lines=🟡+PAC-MAN+MODE+ON;J+o+s+e+l+i+n+e;👻+Backend
 
 <p align="center">
 (๑˃ᴗ˂)ﻭ 🖤 Bienvenid@ a mi rincón kawaii del código 🖤
@@ -60,19 +59,7 @@
 - 💼 Prepararme para mi futuro profesional
 - 🎀 Disfrutar el proceso de aprender a programar
 
----
 
-📊🖤 **Mis estadísticas de GitHub**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoselineJenny&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoselineJenny&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 💌 **Conecta conmigo**
 
