@@ -75,6 +75,6 @@
 ---
 
 <p align="center">
-🟡👻 *Pac-Man se come las letras, yo me como los bugs* 👻🟡  
+🟡✨ Transformo ideas en código y errores en aprendizaje ✨🟡 
 (｡♥‿♥｡)
 </p>
